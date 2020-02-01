@@ -1,32 +1,33 @@
-# NoAC
+NoAC publishes calendars for each load-shedding area in ICAL format which it are automatically updated when the stage is changed.
+To make one of more of these calendars available on your devices follow the setup instructions below.
 
-Importable calendars which show the Cape Town, South Africa load-shedding schedule.
+# Setup
 
-## Setup
+## Google Calendars
 
-### Google Calendars
-
-* From the tables below, copy the ICAL link for your area to the clipboard (*Right click, select `Copy Link Address`*).
+* From the **Region tables** below, copy the ICAL link for your area to the clipboard (*Right click, select `Copy Link Address`*).
 * Open **Google Calendar** [link](https://calendar.google.com/)
 * Scroll down on the left to `Other calendars`. Click the `+` and `From URL`.
 * Paste the link below `From URL`. Click `Add calendar`.
 
-### MacOS Calendar
+## MacOS Calendar
 
-* From the tables below, copy the ICAL link for your area to the clipboard (*Right click, select `Copy Link Address`*).
+* From the **Region tables** below, copy the ICAL link for your area to the clipboard (*Right click, select `Copy Link Address`*).
 * Open **MacOS Calendar** application, on the menu select `File` -> `New Calendar Subscription...`, paste (*Right click, select `Paste`*) link into `Calendar URL:`. Click `Subscribe`.
 * Customise, feel free to configure other aspects of the calendar such as the colour and name.
   * Set `Location` to **iCloud** if you want the calendar available on your iPhone too.
   * Set `Auto-refresh` to **Every hour** so that your calendar will update when the load shedding stage changes.
 * Click `Ok`.
 
-### Apple iPhone
+## Apple iPhone
 
 If you have a MacBook or other MacOS device follow the **MacOS Calendar** instructions above.
 
-## Regions
+# Region tables
 
-### Cape Town
+## Cape Town
+
+* [Load Shedding Schedule and Area Map](https://resource.capetown.gov.za/documentcentre/Documents/Procedures%2c%20guidelines%20and%20regulations/Load_Shedding_All_Areas_Schedule_and_Map.pdf)
 
 <!-- BEGIN: CPT Area Table -->
 
@@ -51,4 +52,3 @@ If you have a MacBook or other MacOS device follow the **MacOS Calendar** instru
 
 <!-- END: CPT Area Table -->
 
-* [Load Shedding Schedule and Area Map](https://resource.capetown.gov.za/documentcentre/Documents/Procedures%2c%20guidelines%20and%20regulations/Load_Shedding_All_Areas_Schedule_and_Map.pdf)
